@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Salesforce local config
+.sfdx/
+
+# Node
+node_modules/
+**/node_modules/
+
+# Flutter / Dart
+**/.dart_tool/
+**/build/
+**/.idea/
+**/.vscode/
+**/*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
